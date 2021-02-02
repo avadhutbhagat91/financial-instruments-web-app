@@ -1,0 +1,11 @@
+{
+    "financialInstrumentsContent":{
+      "header": "Financial Instruments Assignment",
+      "ticker": "Ticker",
+      "price": "Price",
+      "assetClass": "Asset Class",
+      "tickerToolTip": "Click here to sort table by ticker data alphabetically.",
+      "priceToolTip": "Click here to sort table by price in descending order.",
+      "assetClassToolTip": "Click here to sort table by asset class with Equities first then Macro then Credit."
+    }
+  }

@@ -1,0 +1,37 @@
+.macro {
+    background-color: white;
+  }
+  .credit {
+    background-color: green;
+  }
+  .equities {
+    background-color: blue;
+  }
+  .price-positive {
+    background-color: blue;
+  }
+  .price-negative {
+    background-color: red;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  th.header {
+    font-size: 22px;
+    font-style: italic;
+  }
+  table {
+    width: 75%;
+    border-collapse: collapse;
+  }
+  table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* Adding this for responsive UI */
+  div {
+    overflow-x: auto;
+  }
